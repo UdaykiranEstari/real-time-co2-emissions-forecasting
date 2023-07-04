@@ -3,16 +3,8 @@
 This repository contains the code and resources for extracting real-time CO2 emissions data using an API, cleaning and preprocessing the data, and building various time series models including AR, ARIMA, SARIMA, and LSTM. The repository also includes the necessary scripts for analyzing the models and selecting the best-performing one. Finally, the selected model is used for forecasting CO2 emissions for the next 10 years.
 
 ## DataPipeline
+<img width="3058" alt="Methodology" src="https://github.com/UdaykiranEstari/real-time-co2-emissions-forecasting/assets/115963773/f5495365-b8a8-44d6-ba2e-2e28ae1913d8">
 
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Models](#models)
-- [Analysis](#analysis)
-- [Forecasting](#forecasting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
