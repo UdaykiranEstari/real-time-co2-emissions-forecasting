@@ -8,7 +8,7 @@ This repository contains the code and resources for extracting real-time CO2 emi
 
 ## Installation
 
-**1. Clone the repository:**
+1. Clone the repository:
 
    ```shell
    git clone https://github.com/your-username/real-time-co2-emissions-forecasting.git
