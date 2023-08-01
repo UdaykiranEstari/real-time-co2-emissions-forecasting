@@ -21,13 +21,13 @@ This repository contains the code and resources for extracting real-time CO2 emi
 
 ## Usage
 
-### 1. Obtain API credentials:
+#### 1. Obtain API credentials:
 
 - Visit the [API Provider]'s website at [API Provider Website URL].
 - Sign up for an account and obtain the API credentials.
 - Replace the placeholders in the `config.py` file with your API credentials.
 
-### 2. Extract real-time CO2 emissions data:
+#### 2. Extract real-time CO2 emissions data:
 
 - Run the `data_extraction.py` script to extract the latest CO2 emissions data using the API.
 - The extracted data will be saved in the `data/` directory.
