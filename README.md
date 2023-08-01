@@ -32,23 +32,23 @@ This repository contains the code and resources for extracting real-time CO2 emi
 - Run the `data_extraction.py` script to extract the latest CO2 emissions data using the API.
 - The extracted data will be saved in the `data/` directory.
 
-3. Data preprocessing:
+#### 3. Data preprocessing:
 
 - Use the `data_cleaning.ipynb` Jupyter Notebook to clean and preprocess the data according to your needs.
 - The cleaned and preprocessed data will be saved in the `data/processed/` directory.
 
-4. Model building:
+#### 4. Model building:
 
 - Explore the `models/` directory to find the implementations of AR, ARIMA, SARIMA, and LSTM models.
 - Use the `model_selection.ipynb` Jupyter Notebook to compare and evaluate the performance of these models.
 - Select the best-performing model based on your analysis.
 
-5. Analysis:
+#### 5. Analysis:
 
 - Utilize the `analysis.ipynb` Jupyter Notebook to further analyze the selected model and gain insights into the CO2 emissions data.
 - Visualize the model's predictions, evaluate accuracy metrics, and identify any trends or patterns.
 
-6. Forecasting:
+#### 6. Forecasting:
 
 - Once the best model is selected, you can use it to forecast CO2 emissions for the next 10 years.
 - Refer to the `forecasting.ipynb` notebook to generate future predictions based on the trained model.
